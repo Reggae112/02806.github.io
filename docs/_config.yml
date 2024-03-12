@@ -28,9 +28,11 @@ twitter_username: None
 github_username:  Regga112
 
 # Build settings
-theme: minima
+theme: Modernist
+remote_theme: pages-themes/modernist@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-them
 
 # Exclude from processing.
 # The following items will not be processed, by default.

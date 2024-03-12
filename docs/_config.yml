@@ -28,7 +28,7 @@ twitter_username: None
 github_username:  Regga112
 
 # Build settings
-theme: Modernist
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
